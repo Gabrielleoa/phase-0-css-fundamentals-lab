@@ -3,3 +3,34 @@ body {
   height: 100%;
   margin: 0;
 }
+header{
+ text-align: center;
+}
+img{
+  height: 700px;
+  width: 700x;
+}
+a{
+  text-align:center;
+}
+figcaption{
+  font-size: small;
+  text-align: center;
+}
+#featured-property p {
+  margin:auto;
+  text-align: center;
+}
+
+/* Make the details section horizontal */
+#details div {
+  float: left;
+  width: 25%;
+}
+
+/* Style the bottom row divs */
+.bottom-row {
+  text-align: center;
+  width: 25%;
+  display: inline-block;
+}
